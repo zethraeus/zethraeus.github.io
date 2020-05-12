@@ -1,0 +1,3 @@
+[submodule "resume"]
+	url = https://github.com/zethraeus/resume.git
+	path = resume
