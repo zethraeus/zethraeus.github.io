@@ -8,7 +8,7 @@ permalink: /about/
 
 [Pinboard](https://pinboard.in/u:zethraeus)
 
-[Github](https://github.com/zethraeus)
+[Github](https://github.com/adam-zethraeus)
 
 [Goodreads](https://www.goodreads.com/user/show/1093230-adam-zethraeus)
 
